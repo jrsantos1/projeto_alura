@@ -1,0 +1,16 @@
+{
+    "name": "alura/buscador-curos",
+    "description": "Projeto que busca cursos no site da alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jhonatan",
+            "email": "jhonatanjonh@outlook.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.3",
+        "symfony/dom-crawler": "^5.2",
+        "symfony/css-selector": "^5.2"
+    }
+}
